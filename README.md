@@ -1,4 +1,4 @@
-![logo] ()
+![logo] (https://github.com/tamim812806/tamim812806/blob/main/Pink%20Gaming%20Facebook%20Cover.png)
 
 <h1 align="center">Hi 👋, I'm Tamim</h1>
 <h3 align="center">Web Developer</h3>
