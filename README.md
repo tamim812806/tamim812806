@@ -28,6 +28,3 @@
 <br>
 <br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tamim812806&show_icons=true&locale=en" alt="tamim812806" /></p>
-<br>
-<br>
-<p><img margin-top="5px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tamim812806&" alt="tamim812806" /></p>
