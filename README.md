@@ -20,10 +20,8 @@
 
 <br>
 <br>
-<br>
-<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamim812806&show_icons=true&locale=en&layout=compact" alt="tamim812806" /></p>
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamim812806&show_icons=true&locale=en" alt="tamim812806" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tamim812806&show_icons=true&locale=en" alt="tamim812806" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tamim812806&" alt="tamim812806" /></p>
