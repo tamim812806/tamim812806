@@ -1,4 +1,4 @@
-![logo](https://github.com/tamim812806/tamim812806/blob/main/Github%20Cover.jpg)
+![logo](https://github.com/tamim812806/tamim812806/blob/main/cover-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Tamim</h1>
 <h3 align="center">Web Developer</h3>
